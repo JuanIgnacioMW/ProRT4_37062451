@@ -1,0 +1,7 @@
+-------------------------------------------------------
+              algunas consideraciones
+-------------------------------------------------------
+
+use el editor de texto sublime
+xampp version 8.3.3
+versiones actuales de nodejs y postman
